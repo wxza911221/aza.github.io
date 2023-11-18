@@ -38,7 +38,7 @@ header a:hover {
     text-decoration: underline;
 }
 .news {
-    background-color: antiquewhite;
+    background-color: rgb(219, 127, 6);
     color:white;
     height:95vh;
     background-image: url("images/banner.png");
@@ -55,7 +55,7 @@ header a:hover {
     margin-top:60px;
 } 
 .news p {
-    color:#FEF7E6;
+    color:#f1fee6;
     font-size:18px;
     margin:25px 0;
 }
