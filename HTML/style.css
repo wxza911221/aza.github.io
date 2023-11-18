@@ -3,7 +3,7 @@
     margin:0;
 }
 header {
-    background-color:rgba(35,28,26,0.8);
+    background-color:rgba(226, 187, 176, 0.8);
     height:80px;
     width:100%;
     position:fixed;    
@@ -38,7 +38,7 @@ header a:hover {
     text-decoration: underline;
 }
 .news {
-    background-color: rgb(219, 127, 6);
+    background-color: rgb(212, 175, 127);
     color:white;
     height:95vh;
     background-image: url("images/banner.png");
